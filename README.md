@@ -1,9 +1,9 @@
 <h1 align="center">
-  Olá, eu sou [Seu Nome]!!
+  Olá, eu sou WALLISON!!
 </h1>
 
 <p align="center">
-  Cursando: <strong>[Seu Curso, ex: Engenharia de Software]</strong>
+  Cursando: <strong>informática para internet</strong>
   <br>
   Atualmente estudando: <strong>Django, Python e Desenvolvimento Web.</strong>
 </p>
@@ -20,20 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </p>
 
-<br>
 
-### 💼 Projetos em destaque
-
-* ✳️ [BE-Desk](https://github.com/SEU-USUARIO-AQUI/BE-Desk): Sistema de [Descrição do seu projeto, ex: reservas com Django].
-* ✳️ [Outro Projeto](https://github.com/SEU-USUARIO-AQUI/OUTRO-PROJETO): Descrição do outro projeto.
-
-<br>
 
 ### 📬 Como me encontrar
 
-📧 Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+📧 Email: [wallisonmitohs@gmail.com]
 <br>
-👔 LinkedIn: [https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
 
 
 <hr>
