@@ -12,14 +12,7 @@
 <br>
 
 ### 🚀 Sobre Mim
-Eu sou um [Sua Profissão/Estudante] apaixonado por tecnologia. Atualmente estou focado em [O que você está estudando ou trabalhando].
-
-- 🔭 Estou trabalhando no projeto [Nome do Projeto]
-- 🌱 Estou aprendendo [Tecnologia que está aprendendo]
-- 📫 Como me encontrar: [Seu Email ou Link do LinkedIn]
-- 😄 Pronomes: [Ele/Ela/Elu]
-
-<br>
+Eu sou um [Estudante] apaixonado por tecnologia. Atualmente estou focado em [Estou no ifrn com curso de InfoWeb Integrado].
 
 ### 🛠️ Tecnologias e Ferramentas
 
