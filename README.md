@@ -2,15 +2,6 @@
 <img align="right" height="150" src="https://raw.githubusercontent.com/WallisonAndre/WallisonAndre/main/batman-thumbs-up.gif" />
 
 <h2 align="left">Eai 👋! Me chamo Wallison Andre, sou Desenvolvedor de Software focado em Python & Django.</h2>
-
-<br>
-
-<!-- Gráficos de Status com Link Corrigido -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallisonAndre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WallisonAndre&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
-</div>
-
 <br>
 
 <!-- Tecnologias -->
