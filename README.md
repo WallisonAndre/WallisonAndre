@@ -1,4 +1,6 @@
-<img align="right" height="150" src="https://media.tenor.com/PZ8rR6YI93EAAAAC/batman-thumbs-up.gif" />
+<p align="right">
+  <img height="150" src="https://media.tenor.com/PZ8rR6YI93EAAAAC/batman-thumbs-up.gif" alt="Batman Thumbs Up" />
+</p>
 
 <h2 align="left">Eai 👋! Me chamo Wallison, sou Desenvolvedor de Software, focado em Python & Django.</h2>
 
