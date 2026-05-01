@@ -1,5 +1,6 @@
 <h2 align="left">Eai 👋! Me chamo Wallison, sou Desenvolvedor de Software, focado em Python & Django.</h2>
 
+<img align="right" height="150" src="batman-thumbs-up.gif" />
 <br>
 
 <div align="left">
