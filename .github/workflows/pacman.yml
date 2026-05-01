@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate-pacman-graph
-        uses: maurodesouza/pacman-contribution-graph@master
+        uses: maurodesouza/pacman-contribution-graph@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
