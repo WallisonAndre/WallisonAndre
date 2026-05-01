@@ -42,4 +42,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/pacman-contribution-graph/output/WallisonAndre.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/pacman-contribution-graph/output/WallisonAndre.svg">
 </picture>
+
 <br clear="both">
