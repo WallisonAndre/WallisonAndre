@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/WallisonAndre/WallisonAndre/main/batman.gif" alt="Batman" height="150" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6ozwFj8tPyU5G/giphy.gif'" />
-</p>
-
 <h2 align="left">Eai 👋! Me chamo Wallison, sou Desenvolvedor de Software, focado em Python & Django.</h2>
 
 <br>
