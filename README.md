@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">👋 Hi, I'm Wallison.</h1>
+<h1 align="">👋 Hi, I'm Wallison.</h1>
 
 ###
 
